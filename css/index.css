@@ -12,7 +12,6 @@ header, section, footer {width:100%;}
 header, section, footer, div {box-sizing: border-box; display: block;}
 body {font-size:15px; font-family: 'BMDOHYEON';}
 img {width:100%;}
-section {height:100vh;}
 header {width:100vw; height:70px; background-color: rgba(166, 185, 201, 0.7); display:flex;; top:0; left:0; position:fixed; z-index: 100000;}
 header .logo img {width:120px; margin-top:-5px;}
 header .menu {width:500px; display:flex; flex-direction: row-reverse;}
