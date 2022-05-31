@@ -241,7 +241,7 @@
             if(options.autoScrolling && !options.scrollBar){
                 $htmlBody.css({
                     'overflow' : 'hidden',
-                    'height' : '100%'
+                    'height' : '100vh'
                 });
 
                 setRecordHistory(originals.recordHistory, 'internal');
