@@ -91,7 +91,7 @@ header .menu .sub li {border-top: 1px solid #fff; padding:20px 0; background-col
 .sec1 .swiper .f_text p {font-size:35px; font-weight: bold; color:yellow;}
 .sec1 .swiper .s_text p {font-size:35px; font-weight: bold; color:greenyellow;}
 .sec1 .swiper .t_text p {font-size:35px; font-weight: bold; color:lightblue;}
-.sec1 .swiper-pagination {bottom:5vh; transform: translateX(-50%); left:50%;}
+.sec1 .swiper-pagination {bottom:50px; transform: translateX(-50%); left:50%;}
 .swiper-pagination-bullet {background-color: #fff; border:1px solid #fff; border-radius: 0; width:40px; margin: 0 10px !important;}
 .sec2 {background-image: url(../img/b1.png); width:100vw; height:100vh;}
 .sec2 .top {margin-top:200px; margin-left:40px;}
