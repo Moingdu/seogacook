@@ -132,7 +132,7 @@ header .menu .sub li {border-top: 1px solid #fff; padding:20px 0; background-col
 .sec6 h1 {text-align: center; color:#fff; font-size:40px;}
 .sec6 .box {width:360px; margin:0 auto; margin-top:100px;}
 .sec6 .box ul {display:grid; grid-template-columns: 1fr 2fr 4fr; gap:15px;}
-.sec7 {width:100vw; height:100vh;}
+.sec7 {width:100vw;}
 .sec7 .box1 {background-image: url(../img/b6-1.png); width:100vw; height:49.9vh;}
 .sec7 .box2 {background-image: url(../img/b6-2.png); width:100vw; height:16.7vh;}
 .sec7 .box3 {background-image: url(../img/b6-3.png); width:100vw; height:16.7vh;}
